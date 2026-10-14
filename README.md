@@ -17,7 +17,7 @@ The LMS covers course delivery, student enrollment, assignment submission and gr
 IEEE SRS standard • UML • COMET method
 
 ## 📥 Read the Document
-[Download se.pdf}
+[Download the SRS (PDF)](./se.pdf)
 
 ## 👥 Team
 Inshal Nasir • Lujain Zia • Alishba Zainab • Fatima Kashif
